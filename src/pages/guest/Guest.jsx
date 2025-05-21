@@ -13,7 +13,7 @@ const Guest = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <div className="w-10 h-10">
-            <img src="public/img/logo.png" alt="Logo Sedap" className="w-full h-full object-contain" />
+            <img src="/img/logo.png" alt="Logo Sedap" className="w-full h-full object-contain" />
           </div>
           <h1 className="text-xl font-bold text-black">SEDAP</h1>
         </div>

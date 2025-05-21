@@ -6,7 +6,7 @@ const AboutSection = () => {
       {/* Image Section */}
       <div className="w-full md:w-1/2 mb-10 md:mb-0">
         <img
-          src="/img/makanan.jpg"
+          src="/img/salad.jpg"
           alt="Makanan"
           className="w-full max-w-sm md:max-w-md mx-auto rounded-lg shadow"
         />

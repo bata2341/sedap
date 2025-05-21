@@ -8,7 +8,7 @@ const Footer = () => {
         {/* Kiri: Logo dan Deskripsi */}
         <div>
           <div className="flex items-center mb-6">
-            <img src="public/img/logo.png" alt="Sedap Logo" className="w-10 h-10 mr-2" />
+            <img src="/img/logo.png" alt="Sedap Logo" className="w-10 h-10 mr-2" />
             <span className="text-2xl font-bold text-orange-500">SEDAP</span>
           </div>
           <h2 className="text-3xl font-bold leading-tight mb-4">
@@ -52,8 +52,8 @@ const Footer = () => {
 
           {/* Gambar Partner */}
           <div className="flex space-x-4">
-            <img src="public/img/a.jpg" alt="Partner 1" className="h-10" />
-            <img src="public/img/b.jpg" alt="Partner 2" className="h-10" />
+            <img src="/img/a.jpg" alt="Partner 1" className="h-10" />
+            <img src="/img/b.jpg" alt="Partner 2" className="h-10" />
           </div>
         </div>
       </div>

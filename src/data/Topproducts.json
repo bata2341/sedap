@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Gado Gado",
+      "price": "Rp 25.000",
+      "image": "/public/img/gadogado.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Soto Khas Medan",
+      "price": "Rp 22.000",
+      "image": "public/img/soto.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bakso",
+      "price": "Rp 25.000",
+      "image": "public/img/bakso.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sate",
+      "price": "Rp 25.000",
+      "image": "public/img/sate.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rendang",
+      "price": "Rp 25.000",
+      "image": "public/img/rendang.jpg"
+    }
+  ]
+  

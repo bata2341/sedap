@@ -32,7 +32,7 @@ function App() {
       <Routes>
         {/* Routes utama dengan layout utama */}
         <Route element={<MainLayout />}>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/a" element={<Dashboard />} />
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/customers/add" element={<AddCustomers />} />
@@ -49,7 +49,7 @@ function App() {
 
         {/* Layout Guest*/}
         <Route element={<GuestLayout />}>
-          <Route path="/guest" element={<Guest />} />
+          <Route path="/" element={<Guest />} />
         </Route>
 
 
